@@ -4,4 +4,4 @@ This task is intended to be a tool to help gauge your ability to work with hydro
 The data you will be using lives in the data folder in this repo.
 You can use any additional data such as DEM. Please document which data you have used.
 
-Download the Flood task.pdf file in data folder for further instructions on the flood task you will be undertaking.
+Download the flood_task.pdf file for further instructions on the task you will be undertaking.
